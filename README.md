@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.jpg" alt="LocalAIForge — Build Explore Improve" width="480" />
+</p>
+
 # Hi, I'm Salvatore 👋
 
 ### AI & Generative AI developer focused on local LLMs, computer vision, automation, and efficient AI workflows.
